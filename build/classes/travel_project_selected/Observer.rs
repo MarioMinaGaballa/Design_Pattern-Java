@@ -1,0 +1,3 @@
+travel_project_selected.Admin
+travel_project_selected.Observer
+travel_project_selected.BookingNotifier
